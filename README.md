@@ -4,8 +4,7 @@
   <img align="left" src="./pic/ICDM.jpeg" width="200" height="200"/ >
 </p>
 データマイニング分野の論文(KDD, ICDMなど)や
-ニューラルネットワークについてのサーベイを
-まとめるレポジトリ。
+ニューラルネットワークについてのサーベイをまとめるレポジトリ。
 
 # Contents
 * [Article Summaries](https://github.com/Kaniikura/paper-survey/issues)
