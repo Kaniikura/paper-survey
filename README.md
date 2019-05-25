@@ -3,7 +3,7 @@
   <img salign="left" src="./pic/KDD.png" width="200" height="200"/>
   <img align="left" src="./pic/ICDM.jpeg" width="200" height="200"/ >
 </p>
-データマイニング分野の論文(KDD, ICDMなど)や
+データマイニング分野の論文(KDD, ICDMなど)や  
 ニューラルネットワークについてのサーベイをまとめるレポジトリ。
 
 # Contents
