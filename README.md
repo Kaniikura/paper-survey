@@ -22,3 +22,4 @@
   * issueでまとめた論文を学会ごとに索引できるようにしています。
   * [KDD](https://github.com/Kaniikura/paper-survey/projects/1)
   * [ICDM](https://github.com/Kaniikura/paper-survey/projects/2)
+  * [CVPR](https://github.com/Kaniikura/paper-survey/projects/3)
