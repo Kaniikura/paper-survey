@@ -2,7 +2,11 @@
 <p float="left">
   <img  src="./pic/KDD.png" width="200" height="200"/>
   <img  src="./pic/ICDM.jpeg" width="200" height="200"/>
-  <img  src="./pic/CVPR.png" width="200" height="200"/>
+</p>
+<p float="left">
+  <img  src="./pic/NeurIPS.png" width="130" height="130"/>
+  <img  src="./pic/ICML.jpg" width="130" height="130"/>
+  <img  src="./pic/CVPR.png" width="180" height="130"/>
 </p>
 
 <br>
